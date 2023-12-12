@@ -23,3 +23,13 @@ ssh-keygen -t ed25519 -C "deepaktogloor87@gmail.com"
 2. Git branch <branchName> - to create new branch
 3. Git switch <branchName> - to switch branch
 4. Git merge <branchName> - provide the latest updated branch you want to merge with current branch
+
+Git RESET and REVERT
+RESET - Partially, user can think of it as a "RollBack"
+ * Reset points local env back to a previous commit.
+
+REVERT - Net effect of the git revert command is similar to reset, but its approach is different.
+ * Revert adds a new commit at the end of the chain to "cancel" changes.
+
+6. git log --oneline - will basically gives you all logs unique id.
+
