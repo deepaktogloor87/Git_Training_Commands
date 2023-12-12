@@ -33,3 +33,4 @@ REVERT - Net effect of the git revert command is similar to reset, but its appro
 
 6. git log --oneline - will basically gives you all logs unique id.
 
+7. Git reset --soft <logid> : will reset the latest commit
