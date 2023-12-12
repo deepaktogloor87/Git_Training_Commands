@@ -15,3 +15,7 @@ How to generate new SSH key?
 https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 
 ssh-keygen -t ed25519 -C "deepaktogloor87@gmail.com"
+
+5. Git push git@github.com:deepaktogloor87/Git_Training_Commands.git repo name.
+
+
