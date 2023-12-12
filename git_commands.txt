@@ -18,4 +18,7 @@ ssh-keygen -t ed25519 -C "deepaktogloor87@gmail.com"
 
 5. Git push git@github.com:deepaktogloor87/Git_Training_Commands.git repo name.
 
-
+** git branches **
+1. Git branch - to see all branches
+2. Git branch <branchName> - to create new branch
+3. Git switch <branchName> - to switch branch
