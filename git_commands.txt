@@ -1,0 +1,4 @@
+
+Git clone -b main https://github.com/deepaktogloor87/Git_Training_Commands.git
+<command> <flag> <branch> <repo_link>
+
