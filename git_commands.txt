@@ -33,4 +33,10 @@ REVERT - Net effect of the git revert command is similar to reset, but its appro
 
 6. git log --oneline - will basically gives you all logs unique id.
 
-7. Git reset --soft <logid> : will reset the latest commit
+7. Git reset --soft <logid> : revert the commit history.
+
+8. Git reset --hard <logid> : revert the history and changes are recently being done in the file or DISCOMMIT.
+
+9. Git revert HEAD : will basically revert the report commit. And create new log id with changes
+
+10. Git Diff : will show changes made what in which files.
