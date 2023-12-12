@@ -40,3 +40,7 @@ REVERT - Net effect of the git revert command is similar to reset, but its appro
 9. Git revert HEAD : will basically revert the report commit. And create new log id with changes
 
 10. Git Diff : will show changes made what in which files.
+
+** compare commits **
+1. Run git log --oneline
+2. Git diff commitId1 commitId2
