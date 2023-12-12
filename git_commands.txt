@@ -1,4 +1,17 @@
 
-Git clone -b main https://github.com/deepaktogloor87/Git_Training_Commands.git
-<command> <flag> <branch> <repo_link>
+1. Git clone -b main https://github.com/deepaktogloor87/Git_Training_Commands.git
+   <command> <flag> <branch> <repo_link>
 
+2. Git status - to see status of the files
+
+3. Git commit -am "message"
+   -am (add and commit with this flag)
+
+4. Git pull - to pull all new files added to remote repo
+
+** Setup authentication local machine git hub **
+
+How to generate new SSH key?
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+
+ssh-keygen -t ed25519 -C "deepaktogloor87@gmail.com"
