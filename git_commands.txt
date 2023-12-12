@@ -22,3 +22,4 @@ ssh-keygen -t ed25519 -C "deepaktogloor87@gmail.com"
 1. Git branch - to see all branches
 2. Git branch <branchName> - to create new branch
 3. Git switch <branchName> - to switch branch
+4. Git merge <branchName> - provide the latest updated branch you want to merge with current branch
